@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi!
+I'm a student with some free time on my hands! I usually code in C/C++, but I sometimes do stuff in other languages.
 
-<!--
-**MegapolisPlayer/MegapolisPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open-source software
+Most of my smaller projects **are** open-source, but if I'm doing something commercial or large, I don't really like having it open-source.
 
-Here are some ideas to get you started:
+## Current Projects
+*CountryFramework* - a cross platform GUI framework (closed-source, free to use and open-source docs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*MuffleSpeech* - a speech muffler
+
+## Unsupported/Deprecated Projects
+*MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
