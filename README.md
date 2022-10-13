@@ -9,7 +9,8 @@ Most of my projects are licensed under CC-BY 4.0.
 ## Current Projects
 *CountryFramework* - a cross platform GUI framework (closed-source, free to use and open-source docs)
 
-*MuffleSpeech* - a speech muffler (community branch, other branch under Fowsoft)
-
 ## Unsupported/Deprecated Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
+
+
+*MuffleSpeech* - a speech muffler (community branch)
