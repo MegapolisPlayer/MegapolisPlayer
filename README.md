@@ -1,5 +1,5 @@
 # Hi!
-I'm a student with some free time on my hands! I usually code in C/C++, but I sometimes do stuff in other languages.
+I'm a student with some free time on my hands! I usually code in C/C++ (and H), but I sometimes do stuff in other languages.
 
 ## Open-source software
 Most of my smaller projects **are** open-source, but if I'm doing something commercial or large, I don't really like having it open-source.
