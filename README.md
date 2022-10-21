@@ -7,11 +7,12 @@ Unless stated otherwise, all of my projects here on GitHub are open-source, so f
 Most of my projects are licensed under CC-BY 4.0.
 
 ## Future Projects (planned, haven't begun yet)
-*CppH* - an C++ interpreter for Fowsoft's H Scripting Language (in different repo)
 
 *STBIWrap* - a STB Image wrapper for GLFW and CountryFramework
 
 ## Small Projects (not really updated but supported)
+
+CppUtils - utilities for C++ to provide some very basic functionality
 
 ## Current Projects
 *CountryFramework* - a cross platform GUI framework (closed-source, free to use and open-source docs)
