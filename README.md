@@ -24,3 +24,5 @@ CppUtils - utilities for C++ to provide some very basic functionality
 
 *MuffleSpeech* - a speech muffler (community branch)
 
+## Contributing
+Please contribute. Like actually, please do.
