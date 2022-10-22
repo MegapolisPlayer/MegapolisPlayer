@@ -10,6 +10,8 @@ Most of my projects are licensed under CC-BY 4.0.
 
 *STBIWrap* - a STB Image wrapper for GLFW and CountryFramework
 
+*Cominplat* - a common base platform for interpreters
+
 ## Small Projects (not really updated but supported)
 
 CppUtils - utilities for C++ to provide some very basic functionality
@@ -22,7 +24,7 @@ CppUtils - utilities for C++ to provide some very basic functionality
 ## Unsupported/Deprecated Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
 
-*MuffleSpeech* - a speech muffler (community branch)
+*MuffleSpeech* - a speech muffler (does still get small bugfixes)
 
 ## Contributing
 Please contribute. Like actually, please do.
