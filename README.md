@@ -17,7 +17,7 @@ Most of my projects are licensed under CC-BY 4.0.
 CppUtils - utilities for C++ to provide some very basic functionality
 
 ## Current Projects
-*CountryFramework* - a cross platform GUI framework (closed-source, free to use and open-source docs)
+*VersaillesEditor* - a cross platform x64 game engine (closed-source, free to use and open-source docs)
 
 *C++ H Interpreter* (as part of Fowsoft) - an """""""""""innovative""""""""""" open-source c-like language
 
@@ -25,6 +25,8 @@ CppUtils - utilities for C++ to provide some very basic functionality
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
 
 *MuffleSpeech* - a speech muffler (does still get small bugfixes)
+
+*CountryFramework* - merged into Versailles
 
 ## Contributing
 Please contribute. Like actually, please do.
