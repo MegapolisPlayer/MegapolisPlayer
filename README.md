@@ -16,11 +16,13 @@ Most of my projects are licensed under CC-BY 4.0.
 
 CppUtils - utilities for C++ to provide some very basic functionality
 
+U2D License - a license for commerical projects
+
 ## Current Projects
 *Versailles* - a cross platform x64 game engine (closed-source, free to use and open-source docs)
 
    - *Geneva* - a debugger for Versailles
-   - *Trianon* - a graphical user interface for Versailles
+   - *Belgrade* - a graphical user interface for Versailles
 
 *C++ H Interpreter* (as part of Fowsoft) - an """""""""""innovative""""""""""" open-source c-like language
 
