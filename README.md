@@ -24,14 +24,10 @@ U2D License - a license for commerical projects
    - *Geneva* - a debugger for Versailles
    - *Belgrade* - a graphical user interface for Versailles
 
-*C++ H Interpreter* (as part of Fowsoft) - an """""""""""innovative""""""""""" open-source c-like language
-
 ## Unsupported/Deprecated Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
 
-*MuffleSpeech* - a speech muffler (does still get small bugfixes)
-
-*CountryFramework* - merged into Versailles
+*MuffleSpeech* - a speech muffler (does still get small bugfixes if necessary.
 
 ## Contributing
 Please contribute. Like actually, please do.
