@@ -18,6 +18,8 @@ CppUtils - utilities for C++ to provide some very basic functionality
 
 U2D License - a license for commerical projects
 
+PositionPointCounter - a small calc for calculating points based on positions
+
 ## Current Projects
 *Versailles* - a cross platform x64 game engine (closed-source, free to use and open-source docs)
 
