@@ -21,10 +21,10 @@ U2D License - a license for commerical projects
 PositionPointCounter - a small calc for calculating points based on positions
 
 ## Current Projects
-*Versailles* - a cross platform x64 game engine (closed-source, free to use and open-source docs)
+*Versailles* - a cross platform x64 game engine (closed-source)
 
    - *Geneva* - a debugger for Versailles
-   - *Belgrade* - a graphical user interface for Versailles
+   - *Belgrade* - an IDE for Versailles
 
 ## Unsupported/Deprecated Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
