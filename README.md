@@ -21,12 +21,12 @@ PositionPointCounter - a small calc for calculating points based on place (1st, 
 ## Current Projects
 *Versailles* - a cross platform x64 game and application engine (closed-source)
 
-*Belgrade* - an IDE for Versailles
+*Belgrade* - an IDE for Versailles (closed-source)
 
 ## Unsupported/Deprecated Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
 
-*MuffleSpeech* - a speech muffler (does still get small bugfixes if necessary.
+*MuffleSpeech* - a speech muffler (does still get small bugfixes if necessary, GUI planned)
 
 ## Contributing
 Please contribute. Like actually, please do.
