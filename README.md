@@ -23,6 +23,8 @@ PositionPointCounter - a small calc for calculating points based on place (1st, 
 
 *Belgrade* - an IDE for Versailles (closed-source)
 
+MCServerStatusBot - an open-source C++ Discord Bot for getting the status of a Minecraft Server
+
 ## Unsupported/Deprecated Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
 
