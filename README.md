@@ -25,10 +25,12 @@ PositionPointCounter - a small calc for calculating points based on place (1st, 
 
 MCServerStatusBot - an open-source C++ Discord Bot for getting the status of a Minecraft Server
 
-## Unsupported/Deprecated Projects
+## Unsupported, Deprecated or Test Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
 
 *MuffleSpeech* - a speech muffler (does still get small bugfixes if necessary, GUI planned)
+
+*SimpleUEFI* - a "simple" UEFI x64 boot example
 
 ## Contributing
 Please contribute. Like actually, please do.
