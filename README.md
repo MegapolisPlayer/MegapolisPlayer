@@ -33,4 +33,4 @@ MCServerStatusBot - an open-source C++ Discord Bot for getting the status of a M
 *SimpleUEFI* - a "simple" UEFI x64 boot example
 
 ## Contributing
-Please contribute. Like actually, please do.
+Please contribute to the larger repos. Like actually, please do.
