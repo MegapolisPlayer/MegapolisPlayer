@@ -28,9 +28,11 @@ MCServerStatusBot - an open-source C++ Discord Bot for getting the status of a M
 ## Unsupported, Deprecated or Test Projects
 *MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
 
-*MuffleSpeech* - a speech muffler
-
 *SimpleUEFI* - a "simple" UEFI x64 boot example
+
+## Other
+
+Other projects (aka. the ones not mentioned here) are usually either testing or abandoned projects without any significance.
 
 ## Contributing
 Please contribute to the larger repos. Like actually, please do.
