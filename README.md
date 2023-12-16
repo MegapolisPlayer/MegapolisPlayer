@@ -6,11 +6,7 @@ Most of my smaller projects **are** open-source, but if I'm doing something comm
 Unless stated otherwise, all of my projects here on GitHub are open-source, so feel free to use or redistribute them, even for commercial purposes.
 Most of my projects are licensed under CC-BY 4.0.
 
-## Future Projects (planned, haven't begun yet)
-
-*Cominplat* - a common base platform for interpreters
-
-## Small Projects (not really updated but supported)
+## Small Projects (not updated but supported)
 
 CppUtils - utilities for C++ to provide some very basic functionality
 
@@ -19,9 +15,7 @@ U2D License - a license for commerical projects
 PositionPointCounter - a small calc for calculating points based on place (1st, 2nd, 3rd, 4th etc.)
 
 ## Current Projects
-*Versailles* - a cross platform x64 game and application engine (closed-source)
-
-*Belgrade* - an IDE for Versailles (closed-source)
+openArabTools - an open-source C++ implemenation of a student-only Java library
 
 MCServerStatusBot - an open-source C++ Discord Bot for getting the status of a Minecraft Server
 
