@@ -1,29 +1,12 @@
-# Hi!
-I'm a student with some free time on my hands! I usually code in C/C++, but I sometimes do stuff in other languages.
+# Hello!
+I'm a student interested in transit, technology, maths and technology overall!
 
-## Open-source software
-Most of my smaller projects **are** open-source, but if I'm doing something commercial or large, I don't really like having it open-source.
-Unless stated otherwise, all of my projects here on GitHub are open-source, so feel free to use or redistribute them, even for commercial purposes.
-Most of my projects are licensed under CC-BY 4.0.
+# Experience
+- **C++**: I use this language pretty regularly since 2020. Perhaps one of my favourite languages to date - I wrote a few graphical frameworks and a tram simulator.
+- **C**: Perhaps my second favourite language: wrote a (pretty rudimentary) webcrawler a server as well as a few bootloaders.
+- **JS and TS** and *HTML, CSS*: Also a language I often use (and have done some for multiple years at this point), usually paired with some frameworks (SvelteKit). I do sometimes use vanilla JS though.
+- **Java**: 2 years of (forced) experience with Java, used it for some GUI apps and some messing around
+- **Python**: Multiple years experience with vanilla Python, a bit of experience with Django, Matplotlib, Pandas and Notebooks.
 
-## Small Projects (not updated but supported)
-
-## Current Projects
-openArabTools - an open-source C++ implemenation of a student-only Java library
-
-EscapeFromOlomoucRegion - a simple web game available on my website
-
-## Unsupported, Deprecated or Test Projects
-
-*MCServerStatusBot* - an open-source C++ Discord Bot for getting the status of a Minecraft Server
-
-*MinisterOS* - just a **test x86 BIOS OS** which displays time, RAM and CPU vendor
-
-*SimpleUEFI* - a "simple" UEFI x64 boot example
-
-## Other
-
-Other projects (aka. the ones not mentioned here) are usually either testing or abandoned projects without any significance.
-
-## Contributing
-Please contribute to the larger repos. Like actually, please do.
+# Website
+More up-to-date information can be found on my LinkedIn profile or here: [Link](https://martinbykov.eu)
