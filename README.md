@@ -9,4 +9,4 @@ I'm a student interested in transit, technology, maths and technology overall!
 - **Python**: Multiple years experience with vanilla Python, a bit of experience with Django, Matplotlib, Pandas and Notebooks.
 
 # Website
-More up-to-date information can be found on my LinkedIn profile or here: [Link](https://martinbykov.eu)
+More up-to-date information can be found on my [LinkedIn profile](https://www.linkedin.com/in/martin-bykov-878a6b351) or [on my website.](https://martinbykov.eu)
